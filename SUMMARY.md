@@ -7,6 +7,5 @@
 
 ## 李泽泽
 
-* [扎根的吗](li-ze-ze/untitled.md)
-* [啊啊啊啊啊啊](li-ze-ze/aaaaa-a.md)
+* [Untitled](li-ze-ze/untitled.md)
 
