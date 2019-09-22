@@ -1,4 +1,4 @@
-# Initial page
+# 安装
 
 ```text
 fewfn
