@@ -145,18 +145,17 @@ END { code }
 
 ``` 
 > END模块中的代码将会在程序的结尾被调用
+
 ```
   #!/usr/bin/ruby
-
- 
-puts "这是主 Ruby 程序"
- 
-END {
+  puts "这是主 Ruby 程序"
+  
+  END {
    puts "停止 Ruby 程序"
-}
-BEGIN {
+   }
+   BEGIN {
    puts "初始化 Ruby 程序"
-}
+  }
 
 ``` 
 这将产生以下结果：
