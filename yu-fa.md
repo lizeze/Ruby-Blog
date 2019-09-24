@@ -2,7 +2,7 @@
 
 ## 语法
 
-### Hello, Ruby
+## Hello, Ruby
 
 ```text
   #!/usr/bin/ruby -w
@@ -26,7 +26,7 @@ Hello, Ruby!
 
 这就是一个简单的`ruby`程序。
 
-### Ruby中的行尾
+## Ruby中的行尾
 
 > Ruby 把分号和换行符解释为语句的结尾。但是，如果 Ruby 在行尾遇到运算符，比如 +、- 或反斜杠，它们表示一个语句的延续。
 
