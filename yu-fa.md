@@ -63,9 +63,9 @@ warning: possibly useless use of a literal in void context
 
  #!/usr/bin/ruby -w
 
-puts "这是一段话……"+
+ puts "这是一段话……"+
 
-"结束了吗？"
+ "结束了吗？"
 
 ``` 
 执行结果
@@ -124,11 +124,11 @@ BEGIN { …… }
 >BEGIN 模块中的代码将会被最早调用
 
 ```
-#!/usr/bin/ruby
+ #!/usr/bin/ruby
 
-puts "这是主 Ruby 程序"
+ puts "这是主 Ruby 程序"
 
-BEGIN { puts "初始化 Ruby 程序" }
+  BEGIN { puts "初始化 Ruby 程序" }
 
 ``` 
 这将产生以下结果：
