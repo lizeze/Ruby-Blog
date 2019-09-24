@@ -14,7 +14,7 @@ $ source ~/.bash_profile
 $  source /etc/profile.d/rvm.sh
 ```
 
-   检查一下是否安装正确
+检查一下是否安装正确
 
 ```ruby
 $ rvm -v
@@ -80,12 +80,14 @@ $ gem install rails
 $ rails -v
 Rails 4.2.5
 ```
-### Windows安装 
- [点击这里下载](https://rubyinstaller.org/downloads/)
- 
- * 下载 rubyinstaller 之后，解压到新创建的目录下
- * 双击 rubyinstaller-2.2.3.exe 文件，启动 Ruby 安装向导。
- * 点击 Next，继续向导，记得勾选 `Add Ruby executables to your PATH`直到 Ruby 安装程序完成 Ruby 安装为止。
+
+### Windows安装
+
+[点击这里下载](https://rubyinstaller.org/downloads/)
+
+* 下载 rubyinstaller 之后，解压到新创建的目录下
+* 双击 rubyinstaller-2.2.3.exe 文件，启动 Ruby 安装向导。
+* 点击 Next，继续向导，记得勾选 `Add Ruby executables to your PATH`直到 Ruby 安装程序完成 Ruby 安装为止。
 
 完。
 
